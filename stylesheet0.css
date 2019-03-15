@@ -1,1 +1,4 @@
-background-size: cover;
+p {
+   background-image: url('fallgreen.jpg');
+   background-size: cover;
+}
